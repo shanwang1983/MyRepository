@@ -130,7 +130,7 @@ namespace MyNameSpace
             this.twelveOunceRadioButton.Name = "twelveOunceRadioButton";
             this.twelveOunceRadioButton.Size = new System.Drawing.Size(114, 17);
             this.twelveOunceRadioButton.TabIndex = 0;
-            this.twelveOunceRadioButton.Text = "100 &Ounce 400.00";
+            this.twelveOunceRadioButton.Text = "100 &Ounce 450.00";
             this.twelveOunceRadioButton.UseVisualStyleBackColor = true;
             this.twelveOunceRadioButton.CheckedChanged += new System.EventHandler(this.twelveOunceRadioButton_CheckedChanged);
             // 
